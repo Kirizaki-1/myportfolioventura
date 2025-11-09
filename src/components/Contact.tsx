@@ -15,17 +15,17 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      value: "alex.rivera@email.com"
+      value: "raymondventura22@gmail.com"
     },
     {
       icon: Phone,
       title: "Phone",
-      value: "+1 (555) 123-4567"
+      value: "09279727782"
     },
     {
       icon: MapPin,
       title: "Location",
-      value: "San Francisco, CA"
+      value: "Las Pinas Cavite"
     }
   ];
 

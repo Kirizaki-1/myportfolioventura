@@ -14,7 +14,7 @@ const Hero = () => {
         <div className="max-w-4xl mx-auto text-center space-y-8 animate-in fade-in duration-1000">
           <div className="space-y-4">
             <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
-              Hi, I'm <span className="gradient-text">Alex Rivera</span>
+              Hi, I'm <span className="gradient-text">Raymond Ryan Ventura Jr.</span>
             </h1>
             <h2 className="text-2xl md:text-3xl text-muted-foreground">
               Network Engineer & IT Professional
@@ -27,10 +27,6 @@ const Hero = () => {
           </p>
           
           <div className="flex flex-wrap gap-4 justify-center">
-            <Button size="lg" className="gap-2 bg-primary hover:bg-primary/90">
-              <Mail className="w-4 h-4" />
-              Get In Touch
-            </Button>
             <Button size="lg" variant="secondary" className="gap-2">
               <Download className="w-4 h-4" />
               Download CV

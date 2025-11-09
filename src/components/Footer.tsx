@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 py-8">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-muted-foreground text-sm">
-            © {currentYear} Alex Rivera. All rights reserved.
+            © {currentYear} Raymond Ryan Ventura Jr. All rights reserved.
           </p>
           
           <div className="flex gap-4">
@@ -20,7 +20,7 @@ const Footer = () => {
                className="p-2 rounded-lg bg-secondary hover:bg-accent transition-colors">
               <Linkedin className="w-5 h-5" />
             </a>
-            <a href="mailto:alex.rivera@email.com"
+            <a href="mailto:raymondventura22@gmail.com"
                className="p-2 rounded-lg bg-secondary hover:bg-accent transition-colors">
               <Mail className="w-5 h-5" />
             </a>
